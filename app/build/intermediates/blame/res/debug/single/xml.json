@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/src/main/res/xml/prefs.xml"
+    }
+]

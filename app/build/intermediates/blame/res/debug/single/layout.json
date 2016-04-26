@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/build/intermediates/res/merged/debug/layout/activity_contact_details.xml",
+        "source": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/src/main/res/layout/activity_contact_details.xml"
+    },
+    {
+        "merged": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/build/intermediates/res/merged/debug/layout/activity_contacts.xml",
+        "source": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/src/main/res/layout/activity_contacts.xml"
+    },
+    {
+        "merged": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/build/intermediates/res/merged/debug/layout/contact_row.xml",
+        "source": "/Users/MobileBillionare/Downloads/Examples-master-2/restfulCachingProviderContacts1/app/src/main/res/layout/contact_row.xml"
+    }
+]
